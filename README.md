@@ -19,9 +19,10 @@ Welcome to my GitHub Portfolio! This repository showcases my projects, experienc
 ## Projects
 
 ### Smart Waste Management System
+![Smart Waste Management Metrics](https://drive.google.com/uc?export=view&id=1_qg_WSGltZ5vpggktfZnepJkTA5q7YnD)
 - **Description:** An IoT-based project leveraging Raspberry Pi for waste management with features like motion detection, ultrasonic sensors for bin fill levels, LED indicators, and MQTT integration for remote monitoring. 
 - **Technologies Used:** Python, Raspberry Pi, Ultrasonic Sensors, MQTT, SSL/TLS. 
-- **Repository:** [Smart Waste Management System](#)  
+- **Repository:** [Smart Waste Management System](https://github.com/Hari10513/SmartWasteBinMonitoringSystem_Group5)  
 
 ---
 
