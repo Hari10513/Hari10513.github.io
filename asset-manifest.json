@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "C:/Users/ander/Downloads/Hariharan/Portfolio/Hari_portfolio/static/css/main.85a23615.css",
+    "main.js": "C:/Users/ander/Downloads/Hariharan/Portfolio/Hari_portfolio/static/js/main.1d327edd.js",
+    "static/media/HeroImage.jpg": "C:/Users/ander/Downloads/Hariharan/Portfolio/Hari_portfolio/static/media/HeroImage.d7e605b3ec2517963a5f.jpg",
+    "index.html": "C:/Users/ander/Downloads/Hariharan/Portfolio/Hari_portfolio/index.html",
+    "main.85a23615.css.map": "C:/Users/ander/Downloads/Hariharan/Portfolio/Hari_portfolio/static/css/main.85a23615.css.map",
+    "main.1d327edd.js.map": "C:/Users/ander/Downloads/Hariharan/Portfolio/Hari_portfolio/static/js/main.1d327edd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85a23615.css",
+    "static/js/main.1d327edd.js"
+  ]
+}
