@@ -6,7 +6,7 @@ Welcome to my GitHub Portfolio! This repository showcases my projects, experienc
 
 - **Name:** Hariharan Mohan
 - **Current Role:** Student at McMaster University, Hamilton, Ontario, Canada. Master of Engineering in System and Technology.  
-- **Experience:** 3+ years in software development (.NET Developer and Application Lead at TCS), tutoring experience for various levels, and a background in human resources.  
+- **Experience:** 3+ years in software development (.NET Developer and Application Lead at Tata Consultancy Services), tutoring experience for various levels, and a background in human resources.  
 - **Education:**
   - Currently pursuing Master of Engineering at McMaster University, Canada.
   - Master of Computer Applications (Anna University, India)
@@ -28,10 +28,10 @@ Welcome to my GitHub Portfolio! This repository showcases my projects, experienc
 
 ## Technical Skills
 
-- **Programming Languages:** Python, C#, JavaScript.
-- **Frameworks:** .NET, Flask.
-- **Tools & Platforms:** MS Office, GitHub, Docker, Raspberry Pi.
-- **Data Analytics Tools:** SQL, Excel, Tableau.
+- **Programming Languages:** ![Python](https://img.shields.io/badge/-Python-blue) ![C#](https://img.shields.io/badge/-C%23-orange) ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+- **Frameworks:** ![.NET](https://img.shields.io/badge/-DotNet-blue?logo=.net&logoColor=white&style=flat) ![Flask](https://img.shields.io/badge/-Flask-black?logo=flask&logoColor=white&style=flat)
+- **Tools & Platforms** ![MS Office](https://img.shields.io/badge/-MS%20Office-blue?logo=microsoft-office&logoColor=white&style=flat) ![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white&style=flat) ![Docker](https://img.shields.io/badge/-Docker-blue?logo=docker&logoColor=white&style=flat) ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-red?logo=raspberry-pi&logoColor=white&style=flat)
+- **Data Analytics Tools** ![SQL](https://img.shields.io/badge/-SQL-orange?logo=postgresql&logoColor=white&style=flat) ![Excel](https://img.shields.io/badge/-Excel-green?logo=microsoft-excel&logoColor=white&style=flat) ![Tableau](https://img.shields.io/badge/-Tableau-blue?logo=tableau&logoColor=white&style=flat) ![Power BI](https://img.shields.io/badge/-Power%20BI-yellow?logo=power-bi&logoColor=white&style=flat)
 - **Soft Skills:** Leadership, Communication, Team Collaboration.
 
 ---
